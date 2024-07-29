@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mystery-cubes/static/css/main.4e59f205.css",
+    "main.js": "/mystery-cubes/static/js/main.46701e84.js",
+    "static/js/453.02b199c8.chunk.js": "/mystery-cubes/static/js/453.02b199c8.chunk.js",
+    "static/media/Crown.png": "/mystery-cubes/static/media/Crown.00791d8f8c7791d5451f.png",
+    "index.html": "/mystery-cubes/index.html",
+    "main.4e59f205.css.map": "/mystery-cubes/static/css/main.4e59f205.css.map",
+    "main.46701e84.js.map": "/mystery-cubes/static/js/main.46701e84.js.map",
+    "453.02b199c8.chunk.js.map": "/mystery-cubes/static/js/453.02b199c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e59f205.css",
+    "static/js/main.46701e84.js"
+  ]
+}
